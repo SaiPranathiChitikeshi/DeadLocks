@@ -1,0 +1,13 @@
+C:\Users\Sai Baba\Desktop\innRoad\deadlockincsharp\deadlockincsharp\bin\Debug\netcoreapp3.1\deadlockincsharp.exe
+C:\Users\Sai Baba\Desktop\innRoad\deadlockincsharp\deadlockincsharp\bin\Debug\netcoreapp3.1\deadlockincsharp.deps.json
+C:\Users\Sai Baba\Desktop\innRoad\deadlockincsharp\deadlockincsharp\bin\Debug\netcoreapp3.1\deadlockincsharp.runtimeconfig.json
+C:\Users\Sai Baba\Desktop\innRoad\deadlockincsharp\deadlockincsharp\bin\Debug\netcoreapp3.1\deadlockincsharp.runtimeconfig.dev.json
+C:\Users\Sai Baba\Desktop\innRoad\deadlockincsharp\deadlockincsharp\bin\Debug\netcoreapp3.1\deadlockincsharp.dll
+C:\Users\Sai Baba\Desktop\innRoad\deadlockincsharp\deadlockincsharp\bin\Debug\netcoreapp3.1\deadlockincsharp.pdb
+C:\Users\Sai Baba\Desktop\innRoad\deadlockincsharp\deadlockincsharp\obj\Debug\netcoreapp3.1\deadlockincsharp.csprojAssemblyReference.cache
+C:\Users\Sai Baba\Desktop\innRoad\deadlockincsharp\deadlockincsharp\obj\Debug\netcoreapp3.1\deadlockincsharp.AssemblyInfoInputs.cache
+C:\Users\Sai Baba\Desktop\innRoad\deadlockincsharp\deadlockincsharp\obj\Debug\netcoreapp3.1\deadlockincsharp.AssemblyInfo.cs
+C:\Users\Sai Baba\Desktop\innRoad\deadlockincsharp\deadlockincsharp\obj\Debug\netcoreapp3.1\deadlockincsharp.csproj.CoreCompileInputs.cache
+C:\Users\Sai Baba\Desktop\innRoad\deadlockincsharp\deadlockincsharp\obj\Debug\netcoreapp3.1\deadlockincsharp.dll
+C:\Users\Sai Baba\Desktop\innRoad\deadlockincsharp\deadlockincsharp\obj\Debug\netcoreapp3.1\deadlockincsharp.pdb
+C:\Users\Sai Baba\Desktop\innRoad\deadlockincsharp\deadlockincsharp\obj\Debug\netcoreapp3.1\deadlockincsharp.genruntimeconfig.cache

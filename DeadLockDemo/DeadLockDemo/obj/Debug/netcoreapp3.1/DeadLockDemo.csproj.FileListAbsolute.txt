@@ -1,0 +1,13 @@
+C:\Users\Sai Baba\Desktop\innRoad\DeadLockDemo\DeadLockDemo\bin\Debug\netcoreapp3.1\DeadLockDemo.exe
+C:\Users\Sai Baba\Desktop\innRoad\DeadLockDemo\DeadLockDemo\bin\Debug\netcoreapp3.1\DeadLockDemo.deps.json
+C:\Users\Sai Baba\Desktop\innRoad\DeadLockDemo\DeadLockDemo\bin\Debug\netcoreapp3.1\DeadLockDemo.runtimeconfig.json
+C:\Users\Sai Baba\Desktop\innRoad\DeadLockDemo\DeadLockDemo\bin\Debug\netcoreapp3.1\DeadLockDemo.runtimeconfig.dev.json
+C:\Users\Sai Baba\Desktop\innRoad\DeadLockDemo\DeadLockDemo\bin\Debug\netcoreapp3.1\DeadLockDemo.dll
+C:\Users\Sai Baba\Desktop\innRoad\DeadLockDemo\DeadLockDemo\bin\Debug\netcoreapp3.1\DeadLockDemo.pdb
+C:\Users\Sai Baba\Desktop\innRoad\DeadLockDemo\DeadLockDemo\obj\Debug\netcoreapp3.1\DeadLockDemo.csprojAssemblyReference.cache
+C:\Users\Sai Baba\Desktop\innRoad\DeadLockDemo\DeadLockDemo\obj\Debug\netcoreapp3.1\DeadLockDemo.AssemblyInfoInputs.cache
+C:\Users\Sai Baba\Desktop\innRoad\DeadLockDemo\DeadLockDemo\obj\Debug\netcoreapp3.1\DeadLockDemo.AssemblyInfo.cs
+C:\Users\Sai Baba\Desktop\innRoad\DeadLockDemo\DeadLockDemo\obj\Debug\netcoreapp3.1\DeadLockDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sai Baba\Desktop\innRoad\DeadLockDemo\DeadLockDemo\obj\Debug\netcoreapp3.1\DeadLockDemo.dll
+C:\Users\Sai Baba\Desktop\innRoad\DeadLockDemo\DeadLockDemo\obj\Debug\netcoreapp3.1\DeadLockDemo.pdb
+C:\Users\Sai Baba\Desktop\innRoad\DeadLockDemo\DeadLockDemo\obj\Debug\netcoreapp3.1\DeadLockDemo.genruntimeconfig.cache
